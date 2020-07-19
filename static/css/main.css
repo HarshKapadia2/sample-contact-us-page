@@ -10,16 +10,21 @@ main
 
 .title
 {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bold;
-    padding: 2%;
+    padding: 1.5% 0;
+}
+
+.title-info
+{
+	padding-bottom: 2%;
 }
 
 .form
 {
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 60%;
     padding: 2%;
 }
 
