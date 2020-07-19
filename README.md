@@ -6,4 +6,4 @@ Hosted at https://harshkapadia2.github.io/sample-contact-us-page/
 
 The navbar and footer code was taken from my [sample-challenge-page](https://harshkapadia2.github.io/sample-challenges-page/) project.
 
-Input animation was learnt from [Kartik Soneji's](https://www.linkedin.com/in/kartiksoneji/) project.
+Input animation was learnt (not copy-pasted) from [Kartik Soneji's](https://www.linkedin.com/in/kartiksoneji/) project.
