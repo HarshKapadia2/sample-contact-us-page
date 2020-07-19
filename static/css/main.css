@@ -157,13 +157,13 @@ button:hover
 
 	input:focus ~ label, input:not(:placeholder-shown) ~ label
 	{
-		top: -3em;
+		top: -3.5em;
 		left: 0.1em;
 	}
 	
 	textarea:focus ~ label, textarea:not(:placeholder-shown) ~ label
 	{
-		top: -8em;
+		top: -8.5em;
 		left: 0.2em;
 	}
 }
