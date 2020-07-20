@@ -94,7 +94,7 @@ button
     border-color: #212121;
     border-radius: 5px;
     font-family: inherit;
-    font-size: 15px;
+    font-size: 18px;
     background-color: black;
     color: inherit;
     box-shadow: 0 0 10px #212121;
@@ -165,5 +165,10 @@ button:hover
 	{
 		top: -8.5em;
 		left: 0.2em;
-	}
+    }
+    
+    button
+    {
+        font-size: 15px;
+    }
 }
